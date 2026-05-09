@@ -1,0 +1,18 @@
+Before I can finalize the PDF/report text completely, send me these exact items:
+
+1. Full name exactly as hocam expects it
+2. Student number
+3. Submission date
+4. Gemini API key, or confirm you will paste it yourself into .env
+5. Your lab target type: Metasploitable, DVWA Docker, or another lab VM
+6. Your lab target IP after you set it up
+7. GitHub repo URL after you create/push it
+8. YouTube video URL after you record/upload it
+9. Screenshots after running:
+   - terminal start and target IP
+   - M1 Nmap results
+   - M6 banner grabbing results
+   - AI analysis output
+   - HTML report opened in browser
+
+Do not send the API key if you do not want it handled here. You can paste it locally into .env instead.
